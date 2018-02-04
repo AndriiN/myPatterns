@@ -1,0 +1,6 @@
+I:\!!!___________Я___________!!!!\AAA_Sky-tech\Sourse code\myPatterns\01_Strategy\Strategy\Strategy\bin\Debug\Strategy.exe
+I:\!!!___________Я___________!!!!\AAA_Sky-tech\Sourse code\myPatterns\01_Strategy\Strategy\Strategy\bin\Debug\Strategy.pdb
+I:\!!!___________Я___________!!!!\AAA_Sky-tech\Sourse code\myPatterns\01_Strategy\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+I:\!!!___________Я___________!!!!\AAA_Sky-tech\Sourse code\myPatterns\01_Strategy\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+I:\!!!___________Я___________!!!!\AAA_Sky-tech\Sourse code\myPatterns\01_Strategy\Strategy\Strategy\obj\Debug\Strategy.exe
+I:\!!!___________Я___________!!!!\AAA_Sky-tech\Sourse code\myPatterns\01_Strategy\Strategy\Strategy\obj\Debug\Strategy.pdb
